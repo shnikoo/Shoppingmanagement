@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "694681496888",
+    "project_id": "shoppingmanagement-d5758",
+    "storage_bucket": "shoppingmanagement-d5758.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694681496888:android:0c1f7f4ea26d857e9865cd",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_nwoEC0An1WhkNccHfwEy3dhsHnMKmnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
